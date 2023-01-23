@@ -1,5 +1,5 @@
 # ***Инструкция для работы с Git и удалёнными репозиториями***
-
+Рекомендация по Git
 ![Git](https://somaliprogrammers.com/wp-content/uploads/2021/12/gitSomaliProgrammers.jpg)
  ## Что такое Git? 
 
